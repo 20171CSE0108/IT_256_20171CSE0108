@@ -1,0 +1,38 @@
+h1 {
+	color: #36C;
+	font-weight: normal;
+	letter-spacing: 1em;
+	margin-bottom: 1em;
+	text-transform: lowercase;
+}
+
+h2, h3 {
+	color: #ff0000;
+	font-weight: bold;
+	letter-spacing: 1em;
+	margin-bottom: 2em;
+	text-transform: uppercase;
+}
+
+p1 {
+	color: rgb(50%,50%,50%);
+	letter-spacing: 2em;
+	font-size: 24pt;
+	line-height: 3ex;		
+	word-spacing: 15mm;
+	padding: 25px;
+}
+
+p2 {
+	color:rgb(0,0,255);
+	letter-spacing: 2em;
+	word-spacing: 15mm;
+	padding: 25px;
+}
+
+p3 {
+	color:red;
+	word-spacing: 15mm;
+	letter-spacing: 2em;
+	padding: 25px;
+}
